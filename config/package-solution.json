@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pn-p-property-field-collection-data-client-side-solution",
+    "id": "7212fc42-9be2-41ac-87a8-6d90d90eb55d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/pn-p-property-field-collection-data.sppkg"
+  }
+}
